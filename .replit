@@ -1,0 +1,2 @@
+run = 'npm --prefix ./ww run dev'
+entrypoint = './ww/pages/index.jsx'
